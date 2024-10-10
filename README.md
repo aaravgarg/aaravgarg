@@ -7,13 +7,6 @@
 - **Technical Project Manager** for Sphero Swarm, leading a team to develop swarm control algorithms.
 - **Founder & CEO** of Tech Nuttiez, an ed-tech startup impacting over 1.2 million students globally.
 
-## 🛠️ Technical Skills
-
-- **Programming Languages:** Java, Python, C/C++, Flutter
-- **Platforms & Tools:** Solidworks, Siemens NX, KiCad, GitHub
-- **Hardware & Design:** PCB Design, Analog Circuit Design, RF Circuit Design
-- **Algorithms:** Motion Planning, SLAM, PID Control
-
 ## 🌟 Featured Projects
 
 ### 🤖 Robotic Arm That Learns
@@ -28,6 +21,13 @@
 ### 🌤️ Pocket Weather Station
 - Designed a compact handheld device to measure real-time weather conditions using DHT11 and Arduino Nano.
 - Modified design to use DHT22 sensor to increase meteorological reading accuracy from 97% to 99.67%.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** Java, Python, C/C++, Flutter
+- **Platforms & Tools:** Solidworks, Siemens NX, KiCad, GitHub
+- **Hardware & Design:** PCB Design, Analog Circuit Design, RF Circuit Design
+- **Algorithms:** Motion Planning, SLAM, PID Control
 
 ## 📫 Connect with Me
 
