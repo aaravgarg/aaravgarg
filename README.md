@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.mathpix.com/cropped/2024_10_10_d48a4948aa63248f828fg-1.jpg?height=60&width=1487&top_left_y=195&top_left_x=319" alt="Aarav Garg" width="320" />
+</div>
+
 # 👋 Hello, I'm Aarav Garg!
 
 🎓 **Robotics Engineering Student** at Purdue University (GPA: 3.91)
@@ -22,19 +26,18 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 Humanoid Robot
-- Leading a team to innovate bipedal motion with prosthetic ankle integration.
+### 🤖 Robotic Arm That Learns
+- Programmed with Arduino Mega 2560 using inverse kinematics for smooth movement.
+- Designed custom PCB in KiCad that integrates potentiometers and servo motors for precise control and feedback.
+- Engineered using NX and the EEZYbotARM framework for stability.
 
-### 🌊 Underwater Gliding Robot
-- Developed for exploring cavities in icebergs using Siemens NX and Arduino Mega.
+### 📦 Smart Spice Box
+- Developed a state-machine algorithm to control 999 unique states with 3 tactile buttons using an Arduino Uno.
+- Utilized Siemens NX to design the enclosure, enhancing user ergonomics and compatibility with the electronics.
 
-### 📱 Tech Nuttiez App
-- Built using Flutter and Firebase to deliver robotics education worldwide.
-
-## 📈 Achievements
-
-- Raised over $150,000 for the Humanoid Robot Club.
-- Awarded #1 prize in an international Autodesk Innovation Challenge for the Smart Spice Box project.
+### 🌤️ Pocket Weather Station
+- Designed a compact handheld device to measure real-time weather conditions using DHT11 and Arduino Nano.
+- Modified design to use DHT22 sensor to increase meteorological reading accuracy from 97% to 99.67%.
 
 ## 📫 Connect with Me
 
