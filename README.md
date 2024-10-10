@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://cdn.mathpix.com/cropped/2024_10_10_d48a4948aa63248f828fg-1.jpg?height=60&width=1487&top_left_y=195&top_left_x=319" alt="Aarav Garg" width="320" />
-</div>
-
 # 👋 Hello, I'm Aarav Garg!
-
-🎓 **Robotics Engineering Student** at Purdue University (GPA: 3.91)
-
-🌟 **Founder & Innovator** - Passionate about building robots and leading tech initiatives.
-
----
 
 ## 🚀 About Me
 
