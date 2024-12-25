@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Aarav Garg!
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/aaravgarg/langs)](https://githubtrends.io)
+
 ## 🚀 About Me
 
 - **Founding President** of the Humanoid Robot Club at Purdue, where we are pioneering the development of bipedal humanoid robots for space exploration.
